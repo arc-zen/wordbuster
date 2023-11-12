@@ -1,0 +1,2 @@
+get the dictionary of the words I use @ https://www.kaggle.com/datasets/ironicninja/bomb-party-dict
+for now, this only supports one dictionary at a time (make sure all the words are UPPERCASE and the file is named dict.json or something idk)
