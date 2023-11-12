@@ -1,7 +1,7 @@
 // import
 // import { parse } from "https://deno.land/std@0.202.0/flags/mod.ts";
 import * as colors from "https://deno.land/std@0.206.0/fmt/colors.ts";
-import dictlist from "./dict.json" with { type: "json" }
+import dictlist from "../data/dict.json" with { type: "json" }
 // args
 // const prompt = Deno.args[1].toUpperCase();
 // const flags = parse(Deno.args, {
